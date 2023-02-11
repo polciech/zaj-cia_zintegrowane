@@ -1,1 +1,1 @@
-# zaj-cia_zintegrowane
+# zajecia_zintegrowane
